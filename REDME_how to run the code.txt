@@ -1,0 +1,6 @@
+1). Open PRISM and press Model tab and then Open Model
+2). Select the file train_prismcode.pm. and click open.
+3). Now for the properties part click on the tab properties and then open properties list.
+4). Select train_properties.prop file and open it.
+5). Now RUN by right click on any property and select "verify".
+6). You will be able to run it and see the LOG of PRISM which shows step-by-step execution of the model.
